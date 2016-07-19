@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="jars/socket.io-client-0.7.0.jar"/>
+	<classpathentry kind="lib" path="jars/engine.io-client-0.7.0.jar"/>
+	<classpathentry kind="lib" path="jars/json-20160212.jar"/>
+	<classpathentry kind="lib" path="jars/okhttp-3.2.0.jar"/>
+	<classpathentry kind="lib" path="jars/okio-1.7.0.jar"/>
+	<classpathentry kind="lib" path="jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="jars/guava-19.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
